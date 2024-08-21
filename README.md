@@ -1,5 +1,5 @@
 - 👋 Olá, me chamo Ruan Carlos, tenho 24 anos, objetivo ser um Dev Full Stack;
-- ⚡ Cursando faculdade 4°Semestre (Análise em desenvolvimento de sistemas);
-- 👀 Tenho bastante interesse em aprender, na minha visão, aprendizado nunca é demais;
-- 💞️ Procuro colaborar com conhecimentos gerais, força de vontade em aprender, sendo assim, participando e gerando um rápido desenvolvimento com a equipe;
+- ⚡ Cursando faculdade 4°Semestre (Análise em Desenvolvimento de Sistemas);
+- 👀 Tenho bastante interesse em aprender, pois, aprendizado nunca é demais;
+- 💞️ Procuro colaborar com conhecimentos gerais, força de vontade em aprender, participativo e garantindo um rápido desenvolvimento com a equipe;
 - 📫 e-Mail: ruancarlos_bsb@yahoo.com.br / WhatsApp: +55(61)999519062
